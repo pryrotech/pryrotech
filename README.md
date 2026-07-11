@@ -55,7 +55,7 @@ My name is Colby, and I am a Senior Systems Administrator specializing in securi
   <!-- Data -->
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white" />...to name a few
 
 </div>
 
@@ -84,7 +84,7 @@ My name is Colby, and I am a Senior Systems Administrator specializing in securi
   <img src="https://img.shields.io/badge/Networking-0066CC?style=for-the-badge&logo=cisco&logoColor=white" />
 
   <!-- Security -->
-  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=security&logoColor=white" />...to name a few
 
 </div>
 
