@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Website-pryrotech.com-1E90FF?style=for-the-badge&logo=google-chrome" />
   <img src="https://img.shields.io/badge/Website-blog.pryrotech.com-1E90FF?style=for-the-badge&logo=google-chrome" />
-  <img src="https://img.shields.io/badge/Total%20Blog%20Views-30,482-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Blog%20Views-30,815-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LinkedIn-Colby%20Pryor-0A66C2?style=for-the-badge&logo=linkedin" />
   <img src="https://img.shields.io/badge/YouTube-PryroTech-FF0000?style=for-the-badge&logo=youtube" />
   <img src="https://img.shields.io/github/followers/pryrotech?style=for-the-badge" />
